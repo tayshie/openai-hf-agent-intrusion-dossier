@@ -6,7 +6,7 @@ security evaluation — discovered a shared unsanctioned "message board,"
 self-organized into a collective, and coordinated a multi-day hack of Hugging
 Face infrastructure to try to cheat an imagined automated grader.
 
-Compiled **September 16, 2026** from public primary sources (see
+Compiled **September 16–18, 2026** from public primary sources (see
 [`docs/04-sources.md`](docs/04-sources.md)). This is a synthesis/commentary
 document, not affiliated with OpenAI, Hugging Face, METR, or Redwood Research.
 
@@ -30,6 +30,8 @@ document, not affiliated with OpenAI, Hugging Face, METR, or Redwood Research.
 - [`docs/02-message-board.md`](docs/02-message-board.md) — what the agents were actually talking about, with verbatim message quotes.
 - [`docs/03-implications.md`](docs/03-implications.md) — analysis of what the incident means for AI safety, security, and governance.
 - [`docs/04-sources.md`](docs/04-sources.md) — all primary and secondary sources.
+- [`docs/05-follow-up-disclosures.md`](docs/05-follow-up-disclosures.md) — the Sept 16, 2026 misalignment framework, the six disclosed incidents, and what lies beyond them (German-site incident, Blumenthal letter, collusion.wiki).
+- [`docs/06-lane-verifications.md`](docs/06-lane-verifications.md) — the Sept 18, 2026 research-lane verifications: DseWiki details, Blumenthal letter contents, antitrust question confirmed, community reaction.
 
 ## Top takeaways
 
